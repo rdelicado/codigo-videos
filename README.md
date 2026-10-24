@@ -1,7 +1,7 @@
 # Código de los vídeos de Ruben D.
 
 El código de los programas que explico en mi canal de YouTube,
-[Ruben D. (@rubend.3956)](https://www.youtube.com/@rubend.3956), con comentarios en cada función
+[Ruben D. (@soyrubend)](https://www.youtube.com/@soyrubend), con comentarios en cada función
 que cuentan qué hace y por qué está hecho así.
 
 ## The Farmer Was Replaced
