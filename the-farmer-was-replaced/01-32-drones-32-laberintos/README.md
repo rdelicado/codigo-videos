@@ -1,6 +1,6 @@
 # 32 drones, 32 laberintos
 
-Vídeo: **32 drones, 32 laberintos: el porqué de mi programa** (The Farmer Was Replaced).
+Vídeo: **32 drones, 32 laberintos: Como conseguir 100M de oro** (The Farmer Was Replaced).
 
 La granja se divide en cuadrados de 5x5 con un laberinto y un dron en cada uno, todos a la vez.
 Cada dron busca su tesoro con BFS sobre su propio mapa (lo que no ha visto lo da por libre),

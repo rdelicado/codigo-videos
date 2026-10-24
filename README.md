@@ -8,7 +8,7 @@ que cuentan qué hace y por qué está hecho así.
 
 | Vídeo | Código |
 |---|---|
-| 32 drones, 32 laberintos: el porqué de mi programa | [01-32-drones-32-laberintos](the-farmer-was-replaced/01-32-drones-32-laberintos) |
+| 32 drones, 32 laberintos: Como conseguir 100M de oro | [01-32-drones-32-laberintos](the-farmer-was-replaced/01-32-drones-32-laberintos) |
 | Mil calabazas con un solo dron: el código explicado | [02-mil-calabazas-con-un-solo-dron](the-farmer-was-replaced/02-mil-calabazas-con-un-solo-dron) |
 
 ### Cómo usarlo en el juego
