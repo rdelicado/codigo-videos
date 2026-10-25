@@ -10,6 +10,7 @@ que cuentan qué hace y por qué está hecho así.
 |---|---|
 | 32 drones, 32 laberintos: Como conseguir 100M de oro | [01-32-drones-32-laberintos](the-farmer-was-replaced/01-32-drones-32-laberintos) |
 | Mil calabazas con un solo dron: el código explicado | [02-mil-calabazas-con-un-solo-dron](the-farmer-was-replaced/02-mil-calabazas-con-un-solo-dron) |
+| El triple de energía con los mismos girasoles | [03-girasoles-y-energia](the-farmer-was-replaced/03-girasoles-y-energia) |
 
 ### Cómo usarlo en el juego
 
