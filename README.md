@@ -12,6 +12,7 @@ que cuentan qué hace y por qué está hecho así.
 | Mil calabazas con un solo dron: el código explicado | [02-mil-calabazas-con-un-solo-dron](the-farmer-was-replaced/02-mil-calabazas-con-un-solo-dron) |
 | El triple de energía con los mismos girasoles | [03-girasoles-y-energia](the-farmer-was-replaced/03-girasoles-y-energia) |
 | Bubble sort con cactus: 36 de una sola cosecha | [04-cactus-bubble-sort](the-farmer-was-replaced/04-cactus-bubble-sort) |
+| Bubble sort contra insertion sort: ¿cuál ordena antes? | [05-bubble-contra-insertion](the-farmer-was-replaced/05-bubble-contra-insertion) |
 
 ### Cómo usarlo en el juego
 
