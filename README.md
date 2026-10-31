@@ -14,6 +14,7 @@ que cuentan qué hace y por qué está hecho así.
 | Bubble sort con cactus: 36 de una sola cosecha | [04-cactus-bubble-sort](the-farmer-was-replaced/04-cactus-bubble-sort) |
 | Bubble sort contra insertion sort: ¿cuál ordena antes? | [05-bubble-contra-insertion](the-farmer-was-replaced/05-bubble-contra-insertion) |
 | Merge sort: ¿gana el algoritmo más famoso? | [06-merge-sort](the-farmer-was-replaced/06-merge-sort) |
+| Policultivo: por 10 con la misma granja | [07-policultivo](the-farmer-was-replaced/07-policultivo) |
 
 ### Cómo usarlo en el juego
 
