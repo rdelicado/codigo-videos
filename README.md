@@ -15,6 +15,7 @@ que cuentan qué hace y por qué está hecho así.
 | Bubble sort contra insertion sort: ¿cuál ordena antes? | [05-bubble-contra-insertion](the-farmer-was-replaced/05-bubble-contra-insertion) |
 | Merge sort: ¿gana el algoritmo más famoso? | [06-merge-sort](the-farmer-was-replaced/06-merge-sort) |
 | Policultivo: por 10 con la misma granja | [07-policultivo](the-farmer-was-replaced/07-policultivo) |
+| Mano derecha contra DFS: el laberinto que atrapa a uno de los dos | [08-laberintos-mano-derecha-dfs](the-farmer-was-replaced/08-laberintos-mano-derecha-dfs) |
 
 ### Cómo usarlo en el juego
 
