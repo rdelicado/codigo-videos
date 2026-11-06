@@ -18,6 +18,7 @@ que cuentan qué hace y por qué está hecho así.
 | Mano derecha contra DFS: el laberinto que atrapa a uno de los dos | [08-laberintos-mano-derecha-dfs](the-farmer-was-replaced/08-laberintos-mano-derecha-dfs) |
 | La serpiente sin chocar nunca: zigzag contra atajos | [09-serpiente-zigzag-atajos](the-farmer-was-replaced/09-serpiente-zigzag-atajos) |
 | Drones: procesos, no hilos | [10-drones-procesos](the-farmer-was-replaced/10-drones-procesos) |
+| Carbón con drones: la veta entera en 16 segundos | [11-mineria-carbon](the-farmer-was-replaced/11-mineria-carbon) |
 
 ### Cómo usarlo en el juego
 
